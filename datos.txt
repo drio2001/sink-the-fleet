@@ -1,16 +1,19 @@
-Submarino
-A1
-     Horizontal Fragata B
-3 Vertical Submarino C5 Horizontal FIN Submarino
-B
-1
-Vertical Fragata B   5
-       Vertical
-Fragata
-C
-5
-Horizontal
-FIN B5 A
-3
-C2 D 3 B
-1
+
+	SubmAriNO A 7 vertical		
+
+		FIN
+		
+SUBMARino A 2 horizontal
+				
+		FIN
+		
+
+		A 2
+	D 5	
+	
+
+A 2
+		B 7
+		
+		PATATA
+	
